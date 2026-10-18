@@ -2,6 +2,8 @@
 
 **An AI-powered expense tracking and receipt management app built with Python and Streamlit.**
 
+Live demo: https://receiptsort-ai.streamlit.app/
+
 ReceiptSort AI helps users record expenses, organize spending, analyze expense patterns, and export expense records in CSV format.
 
 ## ✨ Features
